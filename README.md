@@ -19,21 +19,7 @@ Incluye manejo de menús, condicionales (`if/else`, `switch`) y ciclos (`while`,
 
 ---
 
-## ▶️ Ejecución en Visual Studio
-
-1. Abrir **Visual Studio**.
-2. Crear un nuevo proyecto → **Aplicación de consola en C**.
-3. Copiar el contenido de `main.c` en el archivo principal del proyecto.
-4. Compilar y ejecutar con **Ctrl + F5**.
-
----
-
 ## 🛠 Tecnologías
 - Lenguaje C
 - Visual Studio (Windows)
 - Condicionales y ciclos básicos
-
----
-
-## 📌 Autor
-Proyecto académico - Simulación de pedidos de domicilios por consola.
